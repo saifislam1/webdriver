@@ -22,12 +22,12 @@
           <version>4.5.0</version>
       </dependency>
   </dependencies>
-  <dependencies>
-    <dependency>
-        <groupId>org.junit.jupiter</groupId>
-        <artifactId>junit-jupiter-engine</artifactId>
-        <version>5.9.1</version>
-        <scope>test</scope>
-    </dependency>
-  </dependencies>
+<!--  <dependencies>-->
+<!--    <dependency>-->
+<!--        <groupId>org.junit.jupiter</groupId>-->
+<!--        <artifactId>junit-jupiter-engine</artifactId>-->
+<!--        <version>5.9.1</version>-->
+<!--        <scope>test</scope>-->
+<!--    </dependency>-->
+<!--  </dependencies>-->
 </project>
